@@ -1,7 +1,7 @@
 {
-  "name": "karma-browserstack-launcher",
+  "name": "karma-browserstack-proxy-launcher",
   "version": "0.1.2",
-  "description": "A Karma plugin. Launch any browser on BrowserStack!",
+  "description": "Fork of the Karma plugin. Launch any browser event behind a proxy",
   "main": "index.js",
   "repository": {
     "type": "git",
